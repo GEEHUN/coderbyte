@@ -1,5 +1,5 @@
 def ArrayAdditionI(arr)
-    arr = [1,2,3,100]
+    
   # code goes here
   arr = arr.sort.reverse!
   i = 1
